@@ -20,6 +20,7 @@ public class Student {
     }
     public String getName() {
         return name;
+
     }
     public String getStudentId() {
         return studentId;
